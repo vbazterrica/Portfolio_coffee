@@ -19,7 +19,7 @@ This project explores coffee sales data to extract business insights such as:
 ## 🚀 Live Demo
 
 👉 Streamlit App:  
-[Add your Streamlit link here]
+[https://portfoliocoffee-2wbf8nhmvrvfdtpxqhgvfp.streamlit.app/]
 
 ---
 
